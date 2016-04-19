@@ -1,0 +1,377 @@
+agree which is one important many CTO takes. they avoid lockin technologies. they started moving more than 15 years ago for best of breed approach. I saw many examples where software companies had to re-develop big chunks of their software to make it independent on a single vendor 
+%
+#QoS in Lebanon. help. Called Ogero to troubleshoot an 8mbps connection (for the second time). the operator started shouting then hanged the line...couldn't reach to their complaint department... anyone @here knows how to reach them directly. i believe in accountability otherwise things will never get better 
+%
+In addition, based on my experience, i used to say wow those people are in the news...in many times it is just PR... 
+%
+e.g. collaboration between some members:
+instead of pushing on a branch then asking a peer review or collaboration you can push on a completely different remote then once done you can merge back to the original remote. but that's not all. instead of having 100's of commits for a single task and you end up cluttering the whole commit history, you do something called rewriting history. many ways this can be done.. one thing is. but the end result is that you do a single commit on the repository for your work. and this is useful e.g. for dev ops if they want to cherry-pick their commits 
+%
+concerning the broken software thing, git has a replay/test feature where it allows you to automate the whole process (if you have automated test cases). it can revert back to some commit and apply commits one by one and apply your test suits and tells you what commit broke your code 
+%
+ there is no doubt that we can hack things and sure many has great skills. but still there is a wide gap between hacking something and creating a usable and maintainable product. here comes the role of environment, community... (here is where i was complaining) 
+%
+e.g. if you remember the Engineering dep. of Balamand who sent a balloon to stratosphere few months ago. they made of it a big deal...while few months before a kid from the UK already did the same job. the problem here is that when they say engineering dep. you expect something really innovative.
+%
+i don't believe someone can create value if s/he is a drop out or freshgrad. few cases of dropout like Zuck, Gates, Alen...those guys used to program early on in heir careers. e.g. Paul Alen (and Bill Gates) wrote the basic interpreter based on the specs/instruction list of the IBM , punched it on cards then flew to IBM to try it and it worked! 
+%
+compare that with a drop out who is planning to learn programming! 
+%
+in both sides: tech or business: the question is: what are they able to provide that not everything else can provide? e.g. i really question the logic behind someone dropping out of college and thinking to hire a tech guy and a business dev to do the business. what do they have? idea! 
+%
+now if you look at the few dropouts (with some exceptions) that are into entrepreneurship, they manage to get some cash and get themselves a decent salary that they won't get if they start fresh...so short term they are gaining a alot and spending investors money... long term if it comes to me, i won't hire them unless they are really able to make things happen (and this is questionable, if they didn't have the discipline to have a degree) and after 4 or 5 failed startup then sure i won't hire. 
+%
+based on that model/assumption you can explain how those (not sure what to call) gives money for any idea and any entrepreneur as long as he play by their rules.
+%
+if BDL Accelerate is to help startups then why they are using Eventbrite for their reservation and not a LB startup Ihjoz?
+%
+concerning the VC or investors...some of them are decent...the one who got their money from bank or others. (my opinion, and could be skewed) however there are a bunch others who either get money from the EU and or other sources and try to find out of a way to spend that money so they create different acceleration/incubation program where they charge you 50 to 70% of that money as hosting and professional services and consultancy (they give you consultancy on something they never did) 
+%
+Interesting: What to do to survive the burst of software engineer gold rush...few things: learn languages used by enterprises: C++/C#/Java, well understanding of software engineering concepts...
+%
+interesting article. although not a QA expert but here are few answers (or opinions) from experience in some test automations or  tests
+1- For sure automation can't replace humans: automation should be there to replace repeating the same test twice. With each release there is a risk for regression here comes the automation tests
+2- Bored QA? then they aren't doing the QA job. you can have the same boredom in development usually among avg skills (not to say below) engineers who does the same job again and again without thinking on learning new skills and making things better. for QA it is more than testing, it is about finding ways to minimize defects on making it into prod via different ways. thus there is a lot to learn
+3- for automation to be successful, as in development, you need someone who can automate really fast e.g. you can find a developer who google/copy/paste code but takes forever to develop a decent solution same for QA, if it will take long time to automate then it won't work. note that so far more than 70% of automation software fails.
+4- there is a difference between QA engineer and tester roles. boredom is more related to tester role. QA is supposed to find the right approach to test with minimum effort yet find the max issues before they leak to prod. 
+%
+standing has side effects too if you stand for long time 
+%
+btw, who is tomorrow attending the entreprenergy event
+%
+go back to why git was created. to host (if my info are correct) the linux code and all collaborate on it. imagine that large code/coders base and how to maintain it 
+%
+i never personally used it. i just use blame to see who changed what in a line of code and then check the commit message to see why 
+%
+Another useful scenario for git, that i use always, even if you don't have to collaborate. remember that copy/paste of whole code folder or individual files while reaching a milestone? 
+%
+privacy: 87% of US are identifiable via just 5-zip code, gender and DoB which are all publicly available data...
+so imagine the wealth of info apps and big websites has about users
+REF: Simple Demographics Often Identify People Uniquely, Latanya Sweeney, Carnegie Mellon University
+%
+not from the beginning of the conversation...the criteria to quit isn't only to find something better. the criteria should be IMHO "Do I have enough skills that allow me to survive on my own?". that question should be if you want to start a new venture
+quitting for another job: then the question should be "is the job better in terms of career?" don't look for $. you can always find 10 to 20% more and even some people pay up to 100% if they do need to fill a position (for some kind of overpriced project)...they drain the employee with too little to learn then once they finish a project, they see the cost  high...(you know what happens from now on)
+%
+concerning market share of browsers, one variable to add is: is this something you have choice on it? e.g. enterprise who run windows os deploy a policy about not changing any software (thus IE is there by default)
+%
+this was applied long time ago in HSBC but the UI is much easier than that and to be powerful it should be based on two passwords one is full pass and the second just enter 3 or 4 random digits (to prevent keyloggers from logging the whole sequence) in addition they used to use virtual keyboard (onscreen to defeat keyloggers)
+but with the advances of tech they replace it via sending the auto password (second password) to the phone mobile app.
+it was HSBC US (not sure about lebanon)
+%
+that's bad. that's why it shouldn't be on the password itself e.g. in the case of HSBC they did it on the second password. thus one is hashed the second is encrypted
+%
+sometimes i wonder how the heck software are audited in Lebanon (e.g. in case of banks). Who'v done that for FNB most likely created other problems and security flaws
+%
+Banks in Lebanon are the least innovative and they don't have to innovate anyway. no one will threaten them (so far) since they are heavily protected by regulations(edited)
+and once they try to adopt new techs, they do something that doesn't make any sense in terms of customer experience e.g. in the case of BLF the hardware dongle defeat the banking on the go concept. another sample, Audi who implemented a backend product (oracle) for customer facing portal the result is a disaster, it takes a phd to know how to use their portal
+%
+my opinion is that that money isn't really for startup because they care about you. this is a circular that bankers lobbied for it.
+%
+as for startup ecosystem, true, there is a need for infrastructure but there is a need for talent (with respect to all, but we lack those talents, not because we aren't gifted but because you need to work with higher professionals to be able to innovate (i'm talking here about innovative startups)
+few weeks ago, i attended the CIO Leb, while everybody was bragging about talents in lebanon, Deloitte&Touche simply said, there are no talents produced from lebanon (meant graduated)
+%
+if you worked abroad e.g. US, most likely you'll notice the talent difference. I knew brilliant dev, who once traveled to work in US they felt the difference (e.g. lately someone joined Atlassian, his first comment was: strugling to keep up with them)
+i didn't mean about hiring. it is more about skills needed. there are good engineers everywhere. (which is a starting point)
+%
+I can't agree more...that's exactly what i believe in. actually back to skills, those wanna be entrepreneurs, put them on a real world problem and most of them can't coop with just reading the code
+%
+put aside our ego as LB (which i hv no idea where did we get it) but let me give you the context, just to see if this is real or no and if not then we can ignore their statement
+%
+it was in the CIO leb where all other companies where sponsors who paid to get some air time on the stage while D&T were the only one paid to talk. those are consultants. they were talking directly to enterprise in lebanon and giving assessment about the situation. their words where: the problem is relevance. universities in lebanon aren't graduating relevant skills for the market.
+which is something true. ask @jadjoubran in his university they were teaching right/click create folder...
+wft, who is that CS or computer engineer that you need to teach such thing. (no need to teach him if he needs those info)
+but that doesn't mean that we don't have talents.
+one more thing: to be innovative you need to be in the right place/right environment in order for your innovation to see the light.
+%
+You need to solve real world problem but i add for it where people care about using your solution.
+%
+The investment should be in mentality (aka coaching) and then the people will find their way for skills
+the mentality we have (in general) isn't the right one. majority of entrepreneurs started because they don't want to work or have boss or making it big in a short time..
+So probably it was marketed in an inaccurate way
+%
+u can find everything online now.
+e.g. Gates and Allen wrote the basic interpreter based on Specification sheet then punched it on cards and flew to another state and it worked...that's talent (no body trained them, they didn't even hv internet to copy paste)
+%
+ah, btw, that internet thing, created so many "developers like"
+%
+nothing wrong with SO. the problem is aht many copy a solution without trying to understand it.
+%
+Keep that on your agenda to show me how
+%
+btw. a funny story, i was reviewing once someone code and i passed thru a logic to open a file and read it in java. the var holding the file name was called "spoonFeeding" (apparently to make it easy to teach) so that dev, copy/pasted that code like 10 times and didn't even bother to change the "spoonFeeding" instead, it kept it as is and did something like spoonFeeding = filename. so it keeps working as is
+%
+i saw it many times where i gave people command to execute and put the input to change in place holders like that. then they call me and claim it didn't work or syntax error
+What about finding someone editing an exe file in notepad to change a configuration variable? that one was about to give me a heart attack
+%
+That's what i meant by googling/SO withotu understanding
+or without learning the basics of what they try to do.
+%
+Back to the original question about entrepreneurs and 20'ish cto/ceo: one thing that promote this is that investors are ok with paying the market+ salary for the juniors which is affordable for them but when it comes to paying half salaries for senior they freakout...so you end up with less senior in startup founding teams and more of juniors (that's from the scene in LB)
+one time we were working on an NLP problem and when investor asked how much we need, their reaction was hilarious! they said why to pay that much for engineers, 500$ is enough(edited)
+so, the dropouts and 20'ish C-level (yeah) they have nothing to loose (at least at the short run)
+%
+You need to have solid development process in place in order to get good quality
+%
+note that sometimes RDBMS scaling gets really hard and not that smooth to maintain. there weren't designed from the beginning with scalability in mind
+e.g. master-slave could be a solution for:
+1- if you need to have a replica of your DB for recovery
+2- if you want to load balance your load and have write on single machine and read from many. that's if you don't mind reading some stale data and your app/db driver supports that feature
+3- in case you have reporting on DB directly so instead ofdoing on the live prod you do it on a slave thus you don't affect the performance
+master-master if your app has high # of transactions and your scalability requires to handle that load on the write operations. however this one gets really tricky.
+sharding it's something else. it is about splitting the DB on different dbs, disks, machines... and it can be horizontal/vertical. and you can achieve in mysql easily (kind of). let me know if u need more info on this.
+%
+Note that replication requires maintenance e.g.  you need to make sure that your master-slave or master-master aren't off, and it is a headache
+one more thing, based on stuff i did in few projects to achieve scalability at the level of storage (mainly read).
+1- we hosted on Amazon or Azure with high disk i/o. you can reach up to 50K IOPS which is huge. and DB bottleneck is mainly disk io
+2- we cached many of the queries and purged them manually at different levels e.g. mysql level cache, or in the app (e.g. if using hibernate it supports it) or if other language/framework we used redis thus minimized the hit on the DB dramatically (note that here if you use separation of layers and if you access your data thru something like DAO, data access objects, thus the caching task will be much easier)
+%
+it makes sense. since it needs to sync. not sure how it is done but think about the auto pk besides that it needs to do validate integrity on both masters
+%
+You can't call a language if it does't have proper error handling. i hv no idea how the heck something like "die" is used.
+%
+wordpress itself and the architecture it was written in, is something really great. it served a very important role in CMS. yes, you can write something decent in php (most of web is written using it) but doesn't relate to the lang itself.
+i didn't do alot of work in it. just a few plugins. mainly if the architecture is well understood then it is relatively easy to extend. the problem that i faced was in php itself. i had no idea how to debug it other than using the 'echo'...
+e.g. most languages/framework i used has a logging framework
+and all they share the same concepts..
+%
+note that if using php in a framework like symfony2 or zend then logging is handled in a better way
+%
+e.g. some people drop the towel on the first obstacle they reach or even think of
+We do follow a sold software dev life cycle that requires to pass thru specs, design, test cases, implementation and review between each phase (or once all are done, based on how big the task is)
+all issues on jira, wiki, linked to bitbucket...
+code review, line by line and comparison to design to see if it does implement the design, review for coding standards, logic, common errors, best practices even the log messages
+%
+interesting topic about exception handling. it is one of the first thing to look at in well designed software.
+and how they are handled make software easy to maintain/troubleshoot in production or not.
+catch{} is the worst thing you can think about unless you rely on the try/catch as part of business (which is not preferrable) e.g. parseInt..if it fails you just tell this is in't an int
+i usually log.error() with the full stacktrace to make it easy to spot the error and the origin.
+as for bubble up or catch/return null. it depends on the case. both are valid. from what i saw it is more about architecture. e.g. i worked on web projects where whenever there is an error, no matter what it is, you just bubble it up till the level of controller and there it was handled via injection of code (Aspect Oriented) e.g. in case of Spring framework. thus all code will hae the same way of handling errors.
+%
+If we were to provide you with highly skilled web or mobile developers, how many will you employ right now?
+look like a poll for another startup or business
+not to make the ecosystem better
+%
+ok. hope that. and not being done on the behalf of (or favor for) another company
+%
+no problem. i know the guys and their effort
+%
+as long as we have no law in that country and no one held accountable, things will never move towards the best
+%
+interesting topic. how to test it without starting those 300 VM? think of how they simulated the moon lander without landing on the moon. here comes the abstraction/theory?
+remember someone asked it once, if you choose to ride a plane validated by QA or theory
+does this apply here?
+%
+you can't use a code not being tested or ran.
+%
+i tend to agree with this person, you need to have something proven so you know it works or not and not just via test (since test could be limited to some specific scenarios and may not scale while proving it in an analytic way is a more reliable way). yet there is a need to do a test to account for implementation issues.
+%
+yes. they are proven. based on graph theories. however they may have bug and that's the difference between bug free and zero bug. i heard it somewhere that zero bug is impossible in software however bug free means it works fine (but it could have some hidden, never faced issues)
+%
+I have to look for ref. not an instant thing. however based on what i rmember from the graph theory and compiler theory, most of code transforamtion and optimization is proven for accurracy
+i said most because someone may comeup with a new method for optimization but not proven and add it in a compiler
+hoewver till it is proven they keep it experimental.
+%
+i'll take a more general example: the airplane example. it wasn't done on trial and error, main airodynamic concepts are proven. yet there are implementation error
+%
+replaced by the use of formal methods: model checking, static analysis, program
+proof, etc
+both proof and testing are used.
+%
+formal proof? i would say good analysis can do. note that it is easier to proof it otherwise (negative) but yes positive proof is feasible. some problems can be proven others not
+%
+your entier career? were you faced with situation where someone look at your code and say "hey this is broken because of that"?
+without even executing it?
+%
+if no need for user to change it, i would go with file.
+easier to change via script without any driver (e.g. both shell or python) which we do frequently on deploy time.
+%
+Why do you think this happened? what does it take to prevent it? Isn't what happened correlated with the whole situation in Lebanon?
+%
+I saw many says "this is not what we are in lebanon". True at the individual level but the messed up situation on that jsconf is what exactly lebanon is
+%
+exactly and this why i wrote the above. and the question is: what can we do for that?
+%
+I'll tell you a story which is related to that: I used to work in one of the big offshore companies in Lebanon and one day the owner (who is a Lebanese/US citizen): As long as there is no law and no accountability in Lebanon you'll never get better, you'll never move forward.
+%
+i don't think it is invidualistic.  the whole country is like that. sure we can't wait for the gov. but those people who are annoyed has to start the change
+%
+changing requirements doesn't mean bad code. i do believe that the job of developer to refactor while coding e.g. found something that can be reused, they can either extract into a reusable component or just copy/paste then blame time. (that's one example). and cost is always lower to refactor (not on the long run but very short run).
+usually sloppy programmers (not developers) end up with bad code (and sometimes experience and skills play a role if someone new on task they just focus on make it work without caring on refactoring but if they work longer on the project they should refactor their code without even involving mgt about it unless they need a manager to tell them how to code and maintain it)
+as for 'best code is never written' that's absolutely true. someone used to tell me a good dev/architect is the one that solve a problem without developing/creating anything new
+%
+yes. true. in big companies it is part of the job of the CTO is to pick up the right tools that exists and then they connect them. thus most of work is on connecting
+which lowers both costs and risks.
+%
+note: talking about cto of enterprise. but it does apply on cto of micro startups too but at the level of components/modules of their product
+%
+(shadi replying to himself) I'm interested to know how do they do it. if anyone knows someone who works in banks and are exposed to such process please share the info
+but again, i doubt they hv good security standards and they don't even take it seriously to the level that "if we got busted we are doomed"
+here comes accountability (which we lack in LB). let's say a bank got hacked today and personal info lost, can u sue a bank and win?
+%
+i can give some headsup from the level of security and auditing. a couple of years i got a call from a developer who works for one of the big banks to ask about how to deploy a web application in j2ee (he never used j2ee before that). I recommended to get a consultant but they never did. thus how secure do u think this implementation will be?
+%
+I didn't attend from a while. that's another topic. mainly the approach and content. again it is not annoying it is more like it requires a push and most of the events are done out of good faith.
+%
+e.g. (just for example): drop university, be your own boss, be rich... a movement that drew to itself a majority of people who don't want to work, can't find a job, don't have skills...
+another example is the accelerators and seed capital (micro seed) that focused more on the unexperienced and unskilled. thus in total huge amount of money was spent on nothing serious yet there are serious entrepreneurs and serious startups who are now cash flow positive yet they weren't given any dime (and yet not able to benefit). (note that there are few exceptions)
+%
+concerning who gets funded question (tech or pitch) is a good question. or maybe tech + business team vs. pitch. there are many questions here: can tech alone create a break thru? how likely is it to find experienced tech + business (the kind of people who make 100K+ per year) see them attend such events or being attracted to entrepeneurshipt? in my opinion if there is any chance to make something decent is thru those kind of skills.
+note that so far i saw many startup with strong tech team (or person) but lacks the business entity which is a must (again i believe there is a need for someone experienced, connected and with track record yet still has the agility)
+%
+i tend to agree with you about the entrepreneurial events that pulls us down...true some people are trying to make a change but somehow not successful and yet they accept it even if below standard or expectations. don't look as people are waking up and waiting to attack you. usually people tend to make things better for themselves and it happened that you took missteps on that event and you got that feedback but none of those people is targeting you.
+same for those "ugly cheerleaders" none of them is waiting for you to fail they tried just to protect their reputation (or LB reputation) (reasonable or not that's something else)
+%
+
+however this rings a bell: many people tried to tackle that problem but no one made any progress. maybe all should join effort?
+I used to be excited for the idea however it has some kind of difficulties and too many contradictions to solve: e.g. will u allow anyone to do programming even if they dn't have a degree? aka the engineering syndicate
+will you force companies to not hire anyone not lebanese and without a CS degree?
+what about Computer engineers? are they part of syndicate or not? note that CCE aren't CS they have too little info about software engineering (i mean in terms of curiculum)
+%
+i tend more towards de-regulating it. whoever can do good code let him/her do. i may be wrong but a syndicate could have worked 30 years back
+ in addition currently in Lebanon software engineers (or programmers) don't need a syndicate at this time (thus lack of motive to push it forward). the reason is the bubble created by the money injected into tech companies which will not dry anytime soon before 5 years
+ %
+min salary or cost per project doesn't apply easily e.g. in construction you say 1sqm costs X$ but in software how those are to be quantified (e.g. with dentist there are very few know ops)
+ %
+i currently tend to start with something smaller that benefits the ecosystem but not sure how to do (and i don't think it needs syndicate) e.g. kind of enforce on companies to have at least 10% of their workforce per year as interns (valuable internship not filling excel sheets) on a yearly basis. this will help both juniors entering the market via providing them with valid skills and the companies via giving back to the resource pool
+%
+concerning the swap of interns, this means if the company is able to operate just with interns then most likely they aren't doing anything serious and i believe it is not from those interns benefit to stay on board
+%
+the "why earlier effort.." in my opinion is that the motives weren't correct. it happened the same in many areaas. even if you manage to create a syndicate it doesn't mean it will be a success.
+%
+e.g. take the "driving law". lebanon didn't need a driving law. the existing one could have helped but what it needed urgently is applying a law. but fighting for applying a law isn't as sexy as saying "we created a law"
+i saw the same in the need to "create a syndicate" no one has a clear view (real clear) about why we need it but it is sexy to have one. and most of the time it starts with one single benefit
+that the people who are talking about wants for themselves e.g. min salaries or retirement plans or protection...
+%
+if we want to make impact, let's not wait for syndicate to be there and just start solving those problems one by one and in that journy if there is a need for syndicate it will be created seamlessly (or litter effort)
+%
+no problem with that at all. all people thinks about their shared interest. but my feedback is about the approache to tackle the problem
+the same pattern is repeated everywhere. we start from the result and try to copy it instead of starting from the problem we try to solve
+%
+ that's a good approach.
+ e.g. try to solve the retirment plan thing: you don't need to have a syndicate, just gather the people who are excited and create something and you can start with any commercial retirment plan. once you have the numbers you can negotiate
+ that's one example. same happens with the medical insurrance.
+ %
+ now down the road, when you gain momentum and if it is done correctly others will join
+ %
+ i don't think so. you pitched it for us as "a place for job seekers and companies to hire..ya3ni kind of match making" thus i don't think i'll invest into someone for 3 months and yet nothing protects me (neither law nor rule) from loosing that investment
+ one more thing, what is the SE factory differ from @elkhourymalik le wagon?
+ for the 1st comment i'm mentioning a concern not to discount it. something that companies will bring it up to you. thus worth investigating
+%
+got you.
+%
+by example look at the online banking (based on oracle) released by few banks in lebanon for the customer...it is small font, very complicated UI with pure banking terms...yet full of features but hard to use (i personally have to google different terms before i do my first transfer)
+and when you chat with their IT, they will see it as a kick ass solution with "a lot o features"
+%
+just an example. pretty sure you can find the same in other places
+%
+btw, i do face that thing a lot in my work. we really have to convince people that adding more buttons on a screen doesn't mean it is better (especially enterprise who are used to 10s of buttons on a single UI)
+%
+another point is that, some people view it as a powerful tool, i consider such thing a failure in software. software should be easy to use yet hide the complexity in ui via algo
+%
+on the presumption you are aquihiring a good team for less than %0.12 of your value, in most cases it would be a no-brainer
+%
+based on what i saw so far, only kiddies get wowed by the shinny new tech and switch it directly. no serious business will do it unless well studied
+%
+Well i don't call my self using extensively.  but i can share some experience. i used aws and azure for ML tasks and for clients.
+%
+using it for ML (machine learning) where i needed big computing power (aka 16 cores x 10 machines for 24 hours) then spot instances reduced cost alot
+for Azure, i have a production configuration for a client with 650 stores in the mena. (they asked for azure since they are familiar with MS team in leb). their basic installation is 4 servers (1 app, 1 java solver, 1 cache + orchestration and 1 DB) and based on the load it grows up to 30 vm x 16 cores each
+we have to write our own orchestration (since ms azure one didn't work for our case) and changes to the software so that jobs are posted on a queue and java solvers pickup from queue and the orchestration monitors queue and solvers vm load and scale them up/down
+%
+yes + load on queues. in our case here is the architecture we did that helped us
+1- all solvers process a single job per code. each job is caped by 3h max. thus each vm handles just up to it's number of cores.
+2- those vm pickup jobs for queue.
+3 - the orchestration monitors the queue and where there is a backlog for some time then it creates/start a new vm
+4- if queue isn't loaded (zero jobs) then it query all active vm (that are solvers) and then it check the CPU usage and if below some threshold it turns it off
+we have a customer facing interface web app. however for this one it was easy to scale it based on cpu avg load using MS Azure orchestrator.
+yes. most of the load is from (not batch, it provides continous solutions)
+those are solvers for NP-complete problems. they keep finding better solutions and on each solution they send it back to the app server who in turns sends it to client if they are connected
+we can't consider batch since they are expected to provide real time feedback
+%
+Employee scheduling (they had to do it at the level of 1h) and plan for 1 month
+%
+i believe cpu, io, bandwidth all comes into play
+%
+spot intances help with ur batches. but definitely not for serving contents since if someone bid a higher price then they will be turned off
+%
+no body want's to stop in the middle of the movie
+%
+yes. unlikely but u can't build high quality service on unlikely.
+if i'm not mistaken maroun business is in streaming movies
+%
+if you can afford building in java then java is the choice language. from architecture till quality and speed of execution
+so far u can't beat java in terms of speed with any interpreted language and java outperforms them by a magnitude of 30 to 100 (note that with python you can call native modules written in c thus those provide good performance)
+then comes the enterprise software dev, which requires complicated security and transaction mgt and here the JEE comes to the rescue.
+but for sure java isn't for prototyping
+and when it comes to JEE you do need some senior architect to put the architecture, select the frameworks, libs to use, otherwise you end up with a big mess (e.g. with dot net you just start VS and all the things are there while in java you need to connect them)
+note that java provide a performance close to the C if well written and in some places it outperforms it (due to the hotspot optimization)
+when it comes to web apps, a good architecture and good use of tools and IDE provides you with a speed of development close to python and scripting languages. then the nature and robustness of the language itself provide you with an advantage when building large projects
+%
+the one on the client? if that's then yes, we use it extensively
+but we don't use the feature that syncs with the server (couchdb)
+%
+i'v been working on those skills since 2009. i used many algo/areas classification, document retrieval, regressions, recommendations and some places (not dirctly ml but requires heavy processing) the problem solving.
+lately im checking the tensorflow and how to model problems to use it
+for deeplearning algos
+%
+concerning ArabNet. it is indeed good to network. (my personal opinion) is that they are overpriced
+when u hit 1K, it will become ridiculous. it will be close to events like TechCrunch and others. which u can't compare in terms of content and speakers.
+%
+it is indeed scary the advancement in robotics and connectivity. with the current tech between the public hands (not military even) you can create  terminator that you can release in a city like LA and ask to terminate all men. it can be done in 2 weeks (read it somewhere).
+e.g. look at the 4 legged robot by BostonDynamics...super agile, you just equip with gun and empower with drones for recon and surveillance and send it into a battle field...imagine the impact.  it is even of a great + in the battle field
+%
+good question why not to move to AWS which is a viable option. we did hv an incidents few months ago when we started using azure cloud where vm refused to start. we wanted to move to AWS then MS involved their 3rd level engineer who looked into their logs and where able to find the problem. that time was related to capacity on MS Azure and how they reserve instance. so if u have let's say 16 vm creatd and de-allocated and u start it again, it may fail to start if not enough capacity on the hardware where the vm was created (weird yes but don't ask why)
+%
+the kind of load is elastic and requires to finish in a specific time window
+%
+within 24 hours there is a need to finish some 2700 compute hour (1 computer hour is 1 core)
+so if u need some 113 single core to finish them within that window
+on a VM with 16 core (the max for Azure) thus you need 8x16 core vm.
+but if u run them all time it is a waste of resources and you end up paying like 16K/month
+%
+memory intense isn't related to gpu or not gpu. u can still use gpu
+it is based on the algorithm.
+the algo used is sequential and not data intensive
+%
+gpu are good for data intensive apps where u have to do a single op on large number of data. but doing a sequential op on gpu results in a much lower performance than cpu
+no u can't map any problem to GPU. programming for gpu test ur skills in programming to the maximum. u recall all the low level programming
+till now
+i guess you didn't program gpu for real problems.
+%
+that's the easy part...here is a quick glance of gpu programing.
+forget... too long to write.
+%
+wait your approach for that problem doesn't look sound for me. check a bit about gpu computation. the assumption u did isn't accurate
+it doesn't mean if u hv 10 threads that ur code should run fine on gpu even if it fit in memory
+%
+correct, u need to split ur data in a way to have each core doing exactly the same thing. thus if u hv an if/else the if data should all go into single group and the else into another.
+not only that about computation on gpu, to gain speed you need to align ur memory to be fetched with minimum roundtrips e.g. if u hv 32 core in each compute unit then u need to align ur data correctly where a single fetch gets all the data for that unit. if the gpu has to make multi call to get the data since it is not aligned correctly it ends up much slower than cpu too
+%
+damn, this spiraled out of control :simple_smile: all what was intended is to show the lack of serious work. but again, based the numbers (since you said large population produces better results). if we look at Israel, thru a study done to compare us to them, in Lebanon (study done few years ago, trying to retrieve it now) they had 16K published studies while in Leb we just had 1.6K thus 1/10 while their population is 8M and ours is 4M (so a ratio of 1/2 in population but output of 1/10). the point is there is a lack. numbers proves it. not because of some genes or others are better but the fact that we aren't putting enough effort
+%
+end products requires many components
+%
+probably due to the fact  that your only info of the Ph.D is from the local market
+%
+in my opinion, Ph. D if a success then products should be the end results. (talking about STEM)
+e.g. image processing research lead to the MRI, CT Scan, Mars rover image compression/transmission. they are all from universities work.
+computers and programming were the work of universities. e.g. the first moon landing was done via a computer designed in a university. so yes it is necessary
+%
+look. check the "spootnik crisis" the USSR was graduating 3 to 4 times more scientist that the the US. The US answer was more funds into education
+in order to gain back superiority. so i don't think it is allways about numbers
+%
+yes but i mean it is not because they are large population
+it is about a decision in the country at the level of the gov
+%
+wait. it is not about the number of people. if tha'ts the case india and china will outdo the US.
+%
+however i'm just pointing about something not right
+which is doing a ph.d just for the job of dr.
+%
+i'm not discounting univeristies. i do hire only grads
+%
+so not sure if his only problem or problem of university professor who has a quota that he has to fill
+%
+well. just considering if it will add value in my case
+%
+curious to hear about your work in that field.
