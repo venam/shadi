@@ -2,7 +2,7 @@
 
 Inspired by [dbag](https://github.com/iotek/dbag/), mixed with and idea of
 [pranomostro](https://nixers.net/showthread.php?tid=1872) and using markov
-chains of [c9x](http://c9x.me/cbits/).
+chains of [mpu](http://c9x.me/cbits/).
 
 There's a fortune file and a markov chain.
 
