@@ -10,7 +10,7 @@ There's a fortune file and a markov chain.
 
 ```
 ./shadi.sh #install the fortune file - rebuild it
-forturne shadi
+fortune shadi
 ```
 
 Or
